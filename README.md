@@ -65,4 +65,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 * MongoDB Atlas for providing the `sample_mflix.movies` dataset and visualization tools.
 * The open-source community for its contributions to data analysis and visualization.
-* Prof Amarnath Mitra for his guiadance.
+* Prof Amarnath Mitra for his guidance.
